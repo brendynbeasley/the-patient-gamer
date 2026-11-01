@@ -1,0 +1,16 @@
+# Raw API responses and archived store pages cached by src/fetch_steam.py (hundreds of MB);
+# the parsed tables in data/raw/ are committed instead
+data/cache/
+
+# Secrets
+*.key
+*_key.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

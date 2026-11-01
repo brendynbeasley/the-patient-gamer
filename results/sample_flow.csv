@@ -1,0 +1,11 @@
+step,count
+Most-reviewed paid games sent to the Steam store API,899
+Released 2017-01-01 to 2023-10-31 (type game),472
+Shortlist: most-reviewed in the window,300
+Dropped: >2% of reviews before release month (early access or relisted),83
+"Dropped: sold on another PC store first, or product changed (judgment list)",21
+Games in the sample (top fresh launches by reviews),196
+Dropped: no archived US store page within 75 days before to 31 days after release,53
+Games with a launch list price,143
+Games with review histograms over the first 36 months,143
+Games whose publisher has another game in the sample (extension),91
